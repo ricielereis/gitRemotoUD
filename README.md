@@ -1,1 +1,1 @@
-# gitRemotoUD
+# Acá vamos a anotar todos los avances del proyecto de sincronización de Git con Git Hub 
