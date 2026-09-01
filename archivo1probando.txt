@@ -1,1 +1,7 @@
 Hola mundo desde Git para Git Hub  
+
+Segunda corrección 
+Este archivo se llama archivo1probando.txt 
+Ahora empezaremos a agregar varios elementos a cada uno de los archivos 
+Este archivo será de cambio de texto 
+

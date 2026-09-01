@@ -1,2 +1,7 @@
 Estamos probando varias herramientas 
     Cambie el nombre de archivo cambiando de mayuscula para minuscula 
+
+    Segunda corrección 
+    En este archivo haremos las observaciones en el avence del proyecto
+    Ya se comprobó como llevar el control de versiones 
+    
